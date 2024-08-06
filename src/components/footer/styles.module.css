@@ -1,0 +1,8 @@
+.footer_container {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 20px 20px 40px;
+}
+.link {
+  text-decoration: none;
+}
